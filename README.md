@@ -1,5 +1,5 @@
 # myjava
 
-[Liesmich](https://github.com/robisys/myjava/liesmich.md)
+[Liesmich](liesmich.md)
 
 hhttps://github.com/robisys/myjava.git
